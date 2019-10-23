@@ -1,0 +1,10 @@
+A:\New folder\hw6_Kyselov\hw6_Kyselov\bin\Debug\hw6_Kyselov.exe.config
+A:\New folder\hw6_Kyselov\hw6_Kyselov\bin\Debug\hw6_Kyselov.exe
+A:\New folder\hw6_Kyselov\hw6_Kyselov\bin\Debug\hw6_Kyselov.pdb
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.csprojAssemblyReference.cache
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.Form1.resources
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.Properties.Resources.resources
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.csproj.GenerateResource.cache
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.csproj.CoreCompileInputs.cache
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.exe
+A:\New folder\hw6_Kyselov\hw6_Kyselov\obj\Debug\hw6_Kyselov.pdb
